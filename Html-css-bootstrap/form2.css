@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    background-color: bisque;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    justify-items: center;
+    justify-content: center;
+    margin-left: 400px;margin-right: 400px;margin-top: 50px; padding:10px;border: solid yellowgreen;background-color: rgb(40, 38, 36);
+    text-align: center;
+    
+    
+}
+
+.A{
+
+   /* float: left; */
+    display: inline-block;
+  
+}
+.B{
+
+   
+    display: inline-block;
+  
+}
